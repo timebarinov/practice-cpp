@@ -1,0 +1,1 @@
+g++ main.cpp date.cpp token.cpp node.cpp condition_parser.cpp database.cpp
