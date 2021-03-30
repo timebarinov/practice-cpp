@@ -1,2 +1,2 @@
-# Курсы
-## [Специализация Искусство разработки на современном C++](https://www.coursera.org/specializations/c-plus-plus-modern-development)
+# Practice C++
+Часть моих решений что выполнял по мере изучения С++.
