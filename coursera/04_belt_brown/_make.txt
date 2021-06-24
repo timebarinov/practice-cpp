@@ -1,0 +1,1 @@
+g++ main.cpp utils.cpp transport_router.cpp transport_catalog.cpp sphere.cpp requests.cpp json.cpp descriptions.cpp -std=c++17
