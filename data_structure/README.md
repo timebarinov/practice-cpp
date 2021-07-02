@@ -1,10 +1,12 @@
 # Структуры данных
 
 * Raw Memory
-* Stack
-* Queue
-* Deque
 * Vector
+* Stack
+* Deque
+* Queue
+* Priority Queue
+* Graph
 * Linked List
 * Binary Tree
 * Hash table
